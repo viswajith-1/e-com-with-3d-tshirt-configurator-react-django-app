@@ -1,6 +1,6 @@
 # Nexus | 3D Interactive E-Commerce Platform
 
-![Nexus Banner](https://via.placeholder.com/1200x400?text=Nexus+Project+Banner)
+
 
 > **Design Yours or Find the Perfect T-Shirt.** > A full-stack e-commerce solution bridging the gap between traditional retail and interactive 3D customization.
 
@@ -39,29 +39,19 @@
 ## 🛠️ Tech Stack
 
 ### Frontend
-* [cite_start]**React.js:** For building a dynamic and responsive user interface[cite: 186].
-* [cite_start]**Three.js:** Powering the interactive 3D customization experience[cite: 187].
-* [cite_start]**Tailwind CSS:** Utility-first framework for rapid and clean UI styling[cite: 188].
-* [cite_start]**Vite:** Frontend build tool[cite: 209].
+**React.js:** For building a dynamic and responsive user interface.
+**Three.js:** Powering the interactive 3D customization experience.
+**Tailwind CSS:** Utility-first framework for rapid and clean UI styling.
+Vite:** Frontend build tool
 
 ### Backend
-* [cite_start]**Django (Python):** Robust framework handling business logic, authentication, and APIs[cite: 189].
-* [cite_start]**MySQL:** Production database for reliable data storage[cite: 194].
+Django (Python):** Robust framework handling business logic, authentication, and APIs.
+MySQL:** Production database for reliable data storage.
 
 ### Tools & Deployment
-* [cite_start]**Docker:** For containerization and consistent environments[cite: 215].
-* [cite_start]**Spline/Blender:** For creating and optimizing 3D assets[cite: 206, 207].
-* [cite_start]**Postman:** For API testing and documentation[cite: 212].
-
----
-
-## 🏗️ System Architecture
-
-Nexus uses a decoupled architecture where the React frontend communicates with the Django backend via RESTful APIs.
-
-1.  [cite_start]**Visualization Layer:** The 3D scene captures user inputs (textures, colors) and renders them on a GLTF model[cite: 447, 508].
-2.  [cite_start]**Asset Conversion:** When an order is placed, the frontend captures a blob of the current WebGL canvas state and sends it to the server as a `FormData` object[cite: 543].
-3.  [cite_start]**Data Persistence:** Orders are stored in a relational database linking the custom asset to the user's transaction record[cite: 315, 320].
+* [cite_start]**Docker:** For containerization and consistent environments.
+* [cite_start]**Spline/Blender:** For creating and optimizing 3D assets.
+* [cite_start]**Postman:** For API testing and documentation.
 
 ---
 
@@ -69,10 +59,10 @@ Nexus uses a decoupled architecture where the React frontend communicates with t
 
 We are actively working on the following enhancements:
 
-* [cite_start]**🤖 AI Co-Creator:** Integrating Generative AI to suggest patterns and textures based on text prompts (e.g., "Cosmic Wolf")[cite: 765].
-* [cite_start]**🕶️ AR Virtual Try-On:** Allowing users to project their custom designs onto themselves using their smartphone camera[cite: 767].
-* [cite_start]**👕 Expanded Canvas:** Support for designing hoodies, caps, and tote bags[cite: 770].
-* [cite_start]**🌍 Creator Marketplace:** A hub for users to publish and monetize their custom designs[cite: 773].
+🤖 AI Co-Creator:** Integrating Generative AI to suggest patterns and textures based on text prompts (e.g., "Cosmic Wolf")[cite: 765].
+🕶️ AR Virtual Try-On:** Allowing users to project their custom designs onto themselves using their smartphone camera[cite: 767].
+👕 Expanded Canvas:** Support for designing hoodies, caps, and tote bags[cite: 770].
+🌍 Creator Marketplace:** A hub for users to publish and monetize their custom designs[cite: 773].
 
 ---
 
@@ -95,7 +85,6 @@ We are actively working on the following enhancements:
     cd backend
     python -m venv venv
     source venv/bin/activate  # On Windows: venv\Scripts\activate
-    pip install -r requirements.txt
     python manage.py migrate
     python manage.py runserver
     ```
