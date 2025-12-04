@@ -40,16 +40,11 @@ This project was built to address the "visualization gap" in online apparel shop
 **React.js:** For building a dynamic and responsive user interface.
 **Three.js:** Powering the interactive 3D customization experience.
 **Tailwind CSS:** Utility-first framework for rapid and clean UI styling.
-Vite:** Frontend build tool
+**Vite:** Frontend build tool
 
 ### Backend
 Django (Python):** Robust framework handling business logic, authentication, and APIs.
 MySQL:** Production database for reliable data storage.
-
-### Tools & Deployment
-* [cite_start]**Docker:** For containerization and consistent environments.
-* [cite_start]**Spline/Blender:** For creating and optimizing 3D assets.
-* [cite_start]**Postman:** For API testing and documentation.
 
 ---
 
@@ -57,10 +52,10 @@ MySQL:** Production database for reliable data storage.
 
 We are actively working on the following enhancements:
 
-🤖 AI Co-Creator:** Integrating Generative AI to suggest patterns and textures based on text prompts (e.g., "Cosmic Wolf")[cite: 765].
-🕶️ AR Virtual Try-On:** Allowing users to project their custom designs onto themselves using their smartphone camera[cite: 767].
-👕 Expanded Canvas:** Support for designing hoodies, caps, and tote bags[cite: 770].
-🌍 Creator Marketplace:** A hub for users to publish and monetize their custom designs[cite: 773].
+🤖 AI Co-Creator:** Integrating Generative AI to suggest patterns and textures based on text prompts (e.g., "Cosmic Wolf").
+🕶️ AR Virtual Try-On:** Allowing users to project their custom designs onto themselves using their smartphone camera.
+👕 Expanded Canvas:** Support for designing hoodies, caps, and tote bags.
+🌍 Creator Marketplace:** A hub for users to publish and monetize their custom designs.
 
 ---
 
