@@ -14,8 +14,10 @@ This project was built to address the "visualization gap" in online apparel shop
 >customizationpage
 <img width="969" height="545" alt="image" src="https://github.com/user-attachments/assets/2c3dc9e5-c3f6-430f-be4b-df69bd711308" />
 
+>searchpage
 <img width="980" height="552" alt="image" src="https://github.com/user-attachments/assets/374f0589-304b-4cd6-bed3-04a801dcd99a" />
->homepage
+
+>productpage
 <img width="976" height="549" alt="image" src="https://github.com/user-attachments/assets/a98dfd51-c131-434b-ab77-7cd9b427ad23" />
 
 >admindashboardpage
