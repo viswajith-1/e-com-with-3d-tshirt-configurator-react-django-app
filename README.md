@@ -27,7 +27,7 @@ This project was built to address the "visualization gap" in online apparel shop
 ## 🚀 Key Features
 
 ### 🎨 Interactive 3D Configurator
-* [cite_start]**Real-Time Rendering:** Users can rotate, zoom, and inspect the T-shirt model in a 3D environment.
+**Real-Time Rendering:** Users can rotate, zoom, and inspect the T-shirt model in a 3D environment.
 **Deep Customization:** * Change base fabric colors dynamically.
    Add custom text with adjustable fonts, sizes, and colors.
    Upload images/logos that wrap onto the 3D model.
