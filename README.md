@@ -80,7 +80,7 @@ We are actively working on the following enhancements:
 
 1.  **Clone the Repo**
     ```sh
-    git clone [https://github.com/yourusername/nexus.git](https://github.com/yourusername/nexus.git)
+    git clone [https://github.com/viswajith-1/e-com-with-3d-tshirt-configurator-react-django-app.git)
     ```
 
 2.  **Backend Setup**
