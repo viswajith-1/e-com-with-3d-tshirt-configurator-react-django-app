@@ -1,0 +1,30 @@
+/* Step 1: Style the wrapper */
+.spline-wrapper {
+  position: relative; /* This is crucial for the overlay to work */
+  width: 100vw;
+  height: 100vh;
+}
+
+/* Step 2: Style the overlay box */
+.red-overlay-box {
+  position: absolute; /* Takes the element out of the normal document flow */
+  top: 50px;          /* Positions it 50px from the top of the wrapper */
+  left: 50px;         /* Positions it 50px from the left of the wrapper */
+  width: 300px;
+  height: 200px;
+  background-color: rgba(255, 0, 0, 0.7); /* Red with 70% opacity */
+  z-index: 10;        /* Ensures it stays on top of other elements */
+
+  /* Optional: For centering text inside the box */
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+/* Make the Spline canvas fill the wrapper */
+.spline-wrapper canvas {
+  display: block;
+}
