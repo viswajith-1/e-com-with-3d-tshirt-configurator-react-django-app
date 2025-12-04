@@ -14,9 +14,6 @@ This project was built to address the "visualization gap" in online apparel shop
 <img width="976" height="549" alt="image" src="https://github.com/user-attachments/assets/a98dfd51-c131-434b-ab77-7cd9b427ad23" />
 <img width="983" height="553" alt="image" src="https://github.com/user-attachments/assets/7bfdaac4-8d00-48a2-bf66-f6f0067800ed" />
 
-> **Design Yours or Find the Perfect T-Shirt.** > A full-stack e-commerce solution bridging the gap between traditional retail and interactive 3D customization.
----
-
 ## 🚀 Key Features
 
 ### 🎨 Interactive 3D Configurator
