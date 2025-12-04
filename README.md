@@ -1,5 +1,12 @@
 # Nexus | 3D Interactive E-Commerce Platform
-> **Design Yours or Find the Perfect T-Shirt.** > A full-stack e-commerce solution bridging the gap between traditional retail and interactive 3D customization.
+
+## 📖 About The Project
+
+**Nexus** is a comprehensive web-based platform that integrates two core functionalities: exclusive branded T-shirt sales and a custom 3D T-shirt design studio. 
+
+While traditional platforms often limit customization to simple 2D overlays, Nexus leverages **Three.js** to provide a real-time 3D configurator. Users can upload images, add text, adjust colors, and preview their designs from every angle before purchasing.
+
+This project was built to address the "visualization gap" in online apparel shopping, reducing return rates and boosting customer engagement through immersive technology.
 
 <img width="983" height="553" alt="image" src="https://github.com/user-attachments/assets/2158f3c2-59f0-46aa-b2b2-d98bcd719c0a" />
 <img width="969" height="545" alt="image" src="https://github.com/user-attachments/assets/2c3dc9e5-c3f6-430f-be4b-df69bd711308" />
@@ -7,39 +14,26 @@
 <img width="976" height="549" alt="image" src="https://github.com/user-attachments/assets/a98dfd51-c131-434b-ab77-7cd9b427ad23" />
 <img width="983" height="553" alt="image" src="https://github.com/user-attachments/assets/7bfdaac4-8d00-48a2-bf66-f6f0067800ed" />
 
-
-
-
-
----
-
-## 📖 About The Project
-
-[cite_start]**Nexus** is a comprehensive web-based platform that integrates two core functionalities: exclusive branded T-shirt sales and a custom 3D T-shirt design studio[cite: 3]. 
-
-[cite_start]While traditional platforms often limit customization to simple 2D overlays, Nexus leverages **Three.js** to provide a real-time 3D configurator[cite: 8]. [cite_start]Users can upload images, add text, adjust colors, and preview their designs from every angle before purchasing[cite: 19, 21].
-
-[cite_start]This project was built to address the "visualization gap" in online apparel shopping, reducing return rates and boosting customer engagement through immersive technology[cite: 5, 34].
-
+> **Design Yours or Find the Perfect T-Shirt.** > A full-stack e-commerce solution bridging the gap between traditional retail and interactive 3D customization.
 ---
 
 ## 🚀 Key Features
 
 ### 🎨 Interactive 3D Configurator
-* [cite_start]**Real-Time Rendering:** Users can rotate, zoom, and inspect the T-shirt model in a 3D environment[cite: 21].
-* [cite_start]**Deep Customization:** * Change base fabric colors dynamically[cite: 19].
-    * [cite_start]Add custom text with adjustable fonts, sizes, and colors[cite: 21].
-    * [cite_start]Upload images/logos that wrap onto the 3D model[cite: 19].
-* [cite_start]**Smart Capture:** Automatically converts the user's 3D design into a static image snapshot for the cart and order processing[cite: 543].
+* [cite_start]**Real-Time Rendering:** Users can rotate, zoom, and inspect the T-shirt model in a 3D environment.
+**Deep Customization:** * Change base fabric colors dynamically.
+   Add custom text with adjustable fonts, sizes, and colors.
+   Upload images/logos that wrap onto the 3D model.
+**Smart Capture:** Automatically converts the user's 3D design into a static image snapshot for the cart and order processing.
 
 ### 🛒 Full-Featured E-Commerce Store
-* [cite_start]**Product Catalog:** Browse trending, new, and best-selling collections with filtering options[cite: 15].
-* [cite_start]**Secure Checkout:** Integrated **Razorpay** payment gateway for secure transactions[cite: 315].
-* [cite_start]**User Accounts:** Track order history, status, and manage profile settings[cite: 290].
+**Product Catalog:** Browse trending, new, and best-selling collections with filtering options.
+**Secure Checkout:** Integrated **Razorpay** payment gateway for secure transactions.
+**User Accounts:** Track order history, status, and manage profile settings.
 
 ### 📊 Powerful Admin Dashboard
-* [cite_start]**Analytics:** Visual overview of total revenue, order trends, and processing status[cite: 17, 829].
-* [cite_start]**Inventory Management:** comprehensive CRUD operations for products and categories[cite: 17].
+**Analytics:** Visual overview of total revenue, order trends, and processing status.
+**Inventory Management:** comprehensive CRUD operations for products and categories.
 
 ---
 
