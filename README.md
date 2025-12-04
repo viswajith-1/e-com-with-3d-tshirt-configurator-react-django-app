@@ -8,6 +8,7 @@ While traditional platforms often limit customization to simple 2D overlays, Nex
 
 This project was built to address the "visualization gap" in online apparel shopping, reducing return rates and boosting customer engagement through immersive technology.
 
+>homepage
 <img width="983" height="553" alt="image" src="https://github.com/user-attachments/assets/2158f3c2-59f0-46aa-b2b2-d98bcd719c0a" />
 <img width="969" height="545" alt="image" src="https://github.com/user-attachments/assets/2c3dc9e5-c3f6-430f-be4b-df69bd711308" />
 <img width="980" height="552" alt="image" src="https://github.com/user-attachments/assets/374f0589-304b-4cd6-bed3-04a801dcd99a" />
