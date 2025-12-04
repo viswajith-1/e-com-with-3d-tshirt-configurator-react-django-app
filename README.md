@@ -1,5 +1,8 @@
 # Nexus | 3D Interactive E-Commerce Platform
 
+<img width="983" height="553" alt="image" src="https://github.com/user-attachments/assets/2158f3c2-59f0-46aa-b2b2-d98bcd719c0a" />
+<img width="969" height="545" alt="image" src="https://github.com/user-attachments/assets/2c3dc9e5-c3f6-430f-be4b-df69bd711308" />
+
 
 
 > **Design Yours or Find the Perfect T-Shirt.** > A full-stack e-commerce solution bridging the gap between traditional retail and interactive 3D customization.
