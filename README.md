@@ -3,10 +3,7 @@
 ## 📖 About The Project
 
 **Nexus** is a comprehensive web-based platform that integrates two core functionalities: exclusive branded T-shirt sales and a custom 3D T-shirt design studio. 
-
 While traditional platforms often limit customization to simple 2D overlays, Nexus leverages **Three.js** to provide a real-time 3D configurator. Users can upload images, add text, adjust colors, and preview their designs from every angle before purchasing.
-
-This project was built to address the "visualization gap" in online apparel shopping, reducing return rates and boosting customer engagement through immersive technology.
 
 > homepage
 <img width="983" height="553" alt="image" src="https://github.com/user-attachments/assets/2158f3c2-59f0-46aa-b2b2-d98bcd719c0a" />
