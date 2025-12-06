@@ -17,7 +17,8 @@ While traditional platforms often limit customization to simple 2D overlays, Nex
 <img width="980" height="552" alt="image" src="https://github.com/user-attachments/assets/374f0589-304b-4cd6-bed3-04a801dcd99a" />
 
 >productpage
-<img width="976" height="549" alt="image" src="https://github.com/user-attachments/assets/a98dfd51-c131-434b-ab77-7cd9b427ad23" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/254e15be-ec36-471a-b164-c41665f15f9f" />
+
 
 >admindashboardpage
 <img width="983" height="553" alt="image" src="https://github.com/user-attachments/assets/7bfdaac4-8d00-48a2-bf66-f6f0067800ed" />
