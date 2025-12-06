@@ -6,7 +6,8 @@
 While traditional platforms often limit customization to simple 2D overlays, Nexus leverages **Three.js** to provide a real-time 3D configurator. Users can upload images, add text, adjust colors, and preview their designs from every angle before purchasing.
 
 > homepage
-<img width="983" height="553" alt="image" src="https://github.com/user-attachments/assets/2158f3c2-59f0-46aa-b2b2-d98bcd719c0a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ad9a0045-a2d7-472c-8e00-de5778933203" />
+
 
 >customizationpage
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a04d5706-0dc2-4353-a507-2f8972b95e9f" />
